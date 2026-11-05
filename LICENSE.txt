@@ -1,0 +1,55 @@
+EnterpriseCore AI Suite - Evaluation License Agreement
+Copyright (c) 2026 EnterpriseCore. All rights reserved.
+
+By installing or using this software you agree to these terms on behalf of
+yourself and the organization you represent ("you").
+
+1. Evaluation grant
+   You may install and use this pre-release version free of charge, on any
+   number of your organization's computers, for the purpose of evaluating it
+   and giving feedback, until the EnterpriseCore team ends the trial programme
+   or replaces this version with a newer one.
+
+2. Pre-release software
+   This is a trial version. It may contain errors, change without notice, or
+   lose data. Do not use it as your only system of record, and do not rely on
+   it for statutory filings, payroll payments, tax returns or legal documents
+   without checking the results independently. Keep regular backups of the
+   data folder shown under Help > Open data folder.
+
+3. Your data
+   Your business data is stored on the computers where you install the
+   software. The software does not send your business data to EnterpriseCore.
+   Optional AI features send the text you submit to the AI provider you
+   configure (for example Anthropic or OpenAI) under that provider's own terms;
+   no AI provider is configured by default. If you turn on network sharing,
+   you are responsible for using it only on networks you trust.
+
+4. Feedback
+   You are invited to send feedback using the in-app feedback tools. You grant
+   EnterpriseCore a free, perpetual, worldwide right to use any feedback you
+   send to improve its products, without any obligation to you. Please do not
+   include personal data or confidential information in feedback that you do
+   not want to share.
+
+5. Restrictions
+   You may not sell, rent, sublicense or redistribute the software outside
+   your organization, remove copyright or license notices, or reverse engineer
+   it except to the extent applicable law expressly permits.
+
+6. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NON-INFRINGEMENT.
+
+7. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, ENTERPRISECORE IS NOT LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR LOSS OF DATA,
+   PROFITS OR BUSINESS, ARISING FROM YOUR USE OF THE EVALUATION VERSION.
+
+8. Ending the evaluation
+   You may stop at any time by uninstalling the software and deleting its data
+   folder. These terms end automatically if you breach them.
+
+Questions about licensing or production use: contact the person who sent you
+this trial.
