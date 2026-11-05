@@ -49,4 +49,6 @@ Use the feedback button inside the app. At the end of the trial your administrat
 
 ## License
 
-Evaluation use only. See [LICENSE.txt](LICENSE.txt), which is also shown during installation.
+© 2026 Minhazul Abedin (EnterpriseCore AI Suite). All rights reserved.
+
+Evaluation use only. See [LICENSE.txt](LICENSE.txt), which is also shown during installation. This repository publishes the installer only; the source code is not public and is not licensed for copying, modification, redistribution or reverse engineering. The "Source code" archives GitHub adds to each release contain only this README and the license.
