@@ -43,7 +43,8 @@ The hash must match the line for that file in `SHA256SUMS.txt`.
 - Everything is stored on the host computer in `%LOCALAPPDATA%\EnterpriseCore AI Suite` (**Help → Open data folder**).
 - The software does not send your business data anywhere. Optional AI features send the text you submit to the AI provider you configure yourself.
 - Daily backups go to the `storage\backups` folder inside the data folder. **Help → Restore a backup…** puts one back; the data it replaces is kept aside, not deleted.
-- Installing a newer version over an older one keeps your data. **Help → Check for updates** tells you when a new version is published here.
+- Installing a newer version over an older one keeps your data. **Help → Check for updates** tells you when a new version is published here, and from 0.6.0 on can download it, check it against `SHA256SUMS.txt` and install it for you.
+- Your data is never locked in: **Export to Excel** on the main lists, and **Organization → Export data** (administrators) for everything, one Excel workbook per module.
 
 ## Feedback
 
