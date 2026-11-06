@@ -23,7 +23,7 @@ Each release has three files:
 
 1. Run the installer. It isn't code-signed yet, so Windows may show "Windows protected your PC": choose **More info → Run anyway**.
 2. The first time it opens, a short setup creates your company, your own administrator account, and optional logins for each department head. There is no shared default password.
-3. Colleagues can use it from their own PCs: on the host computer choose **Network → Share with other computers on this network**.
+3. Colleagues can use it from their own PCs: on the host computer choose **Network → Share with other computers on this network**. They open the `https://` address shown under **Network → Show network address**. The connection is encrypted; each colleague installs the host's certificate once (the same dialog explains how) so the browser stops warning.
 
 The Trial Guide PDF walks through all of this with screenshots.
 
